@@ -1,0 +1,22 @@
+body {
+  margin: 40;
+  padding: 0;
+  font-family: sans-serif;
+  color: white;
+  background: #37474F
+}
+
+.user-details{
+  padding: 5px;
+  border-radius: 4px;
+}
+
+ul{
+  list-style: none;
+  font-size: 10px;
+}
+
+.char-name{
+  color: rgb(201, 228, 51);
+  font-size: 30px;
+}
